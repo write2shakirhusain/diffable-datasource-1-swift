@@ -8,5 +8,4 @@ Difference between Datasource and DiffableDatasource | Difference between UITabl
 
 I discussed them in detail that will help us to understand concept which can be asked in interview.
 
-Watch Video for more information from the below link:
-https://youtu.be/mlI76l5QYZo
+Kindly watch video for more information from below  link : https://youtu.be/mlI76l5QYZo
